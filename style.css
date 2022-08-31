@@ -1,0 +1,10 @@
+img {
+    width: auto;
+    height: 300px;
+}
+
+.dish {
+    font-size: 30px;
+    color: red;
+    background: black;
+}
